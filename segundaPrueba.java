@@ -5,6 +5,7 @@ public class segundaPrueba {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 System.out.println("la ultima");
+System.out.println("otra mas");
 	}
 
 }
